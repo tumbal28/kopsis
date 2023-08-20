@@ -177,7 +177,6 @@ body {
 .about .row .about-img img {
   width: 95%;
   border-radius: 50%;
-  height: auto;
 }
 
 .about .row .content {
@@ -364,7 +363,7 @@ footer .links a {
   }
 
   .about .row .about-img img {
-    height: 24rem;
+    height: auto;
     object-fit: cover;
     object-position: center;
   }
